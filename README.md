@@ -1,11 +1,11 @@
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer](https://munnaf.xyz/personal_portfolio/frontend/img/pic3.png)
 ### I am MominMunnaf
 #### Web Developer
 
+I am a full stack web developer. A have completed some responsive, eye catching web applications. Also experienced in this field. I have been working with Laravel for 04 (four) years. I am passionate to 
+I am a full stack web developer. A have completed some responsive, eye catching web applications. Also experienced in this field. I have been working with Laravel for 04 (four) years. I am passionate to deliver extra ordinary applications for my clients. I am fully dedicated in my work.
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: HTML / CSS / Bootstrap / JavaScript / jQuery / PHP / Laravel
 
 - 🔭 I’m currently working on this page. 
 
